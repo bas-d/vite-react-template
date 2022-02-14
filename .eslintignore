@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+src/serviceWorker.ts
+.eslintrc.js
+i18next-scanner.config.js
+tailwind.config.js
+postcss.config.js
